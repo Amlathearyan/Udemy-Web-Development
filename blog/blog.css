@@ -1,0 +1,23 @@
+body{
+	border: 20px solid #bdc3c4;
+	padding: 20px;
+	width: 700px;
+	margin: auto;
+
+}
+
+h3{
+	color: #3498db;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+h1{
+	color: #2c3e50;
+	text-align: center;
+}
+
+h3:nth-of-type(2) {
+	border-top: 2px solid #bdc3c4;
+	padding-top: 20px;
+}
